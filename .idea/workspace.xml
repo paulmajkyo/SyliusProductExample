@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2cc4f4e-f60b-4cd0-ac42-ba3d5c6a0179" name="Changes" comment="" />
+    <list default="true" id="e2cc4f4e-f60b-4cd0-ac42-ba3d5c6a0179" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/behat.yml.dist" beforeDir="false" afterPath="$PROJECT_DIR$/behat.yml.dist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpspec.yml.dist" beforeDir="false" afterPath="$PROJECT_DIR$/phpspec.yml.dist" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -266,6 +272,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="27hCI8YKrSHZ690KodQp1MWEV1Z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="false" />
@@ -281,6 +288,20 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml.dist" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+    <configuration name="behat.yml.dist" type="PhpBehatConfigurationType">
+      <BehatRunner scope="Yml" />
+      <method v="2" />
+    </configuration>
+    <configuration name="phpspec.yml.dist" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings scope="ConfigurationFile" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -290,6 +311,7 @@
       <option name="presentableId" value="Default" />
       <updated>1649762849599</updated>
       <workItem from="1649762851058" duration="2476000" />
+      <workItem from="1649873373098" duration="810000" />
     </task>
     <servers />
   </component>
